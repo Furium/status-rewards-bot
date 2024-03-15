@@ -2,7 +2,7 @@
   "name": "status-rewards",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "author": "@sapphire",
+  "author": "ImKIJ",
   "license": "UNLICENSE",
   "type": "commonjs",
   "dependencies": {
