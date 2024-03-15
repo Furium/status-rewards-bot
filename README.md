@@ -2,7 +2,7 @@
 
 This bot has been made in order to reward and encourage those who put specific link in their status such as discord server invite link, or your personal website, etc..
 
-## Prerequisities
+## Prerequisites
 
 NodeJS >= v20
 
