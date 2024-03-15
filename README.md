@@ -9,6 +9,8 @@ NodeJS >= v20
 ## How to setup
 
 Update .env.example name to .env, add required values
+Edit `config.json` file to what you need. Update staff roles, color if needed, logChannel, and put your guildId as well.
+
 run `yarn install` then run `yarn start` and you should be ready to go!
 
 ### Support
